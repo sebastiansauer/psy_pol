@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: psy_pol
 locale: en_US
-description: Describe your website here.
+description: Blog zur Psychologie des öffentlichen Zeitgeschehens
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://sebastiansauer.github.io/psy_pol
 
 # Jekyll configuration
 
