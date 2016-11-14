@@ -2,7 +2,7 @@
 
 title: psy_pol
 locale: en_US
-description: Blog zur Psychologie des öffentlichen Zeitgeschehens
+description: "Blog zur Psychologie des oeffentlichen Zeitgeschehens"
 logo: site-logo.png
 search: true
 url: https://sebastiansauer.github.io/psy_pol
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Sebastian Sauer
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:

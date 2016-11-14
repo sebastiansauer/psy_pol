@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathJax Example"
+title: "MathJax Example.. geht auch"
 modified:
 categories: blog
 excerpt:
