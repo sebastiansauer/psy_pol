@@ -2,7 +2,7 @@
 title: "Ansprache zum Jahreswechsel"
 subtitle: "Feuerigkeit zum Übernächsten"
 author: "Sebastian Sauer"
-date: "3 1 2017"
+date: 2017-01-03
 tags: [engagement]
 layout: post
 ---
