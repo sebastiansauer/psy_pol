@@ -5,17 +5,15 @@ modified:
 categories: blog
 excerpt:
 tags: [Wissenschaft, Deutschland, Engagement]
-image:
-  feature:
 date: 2017-03-08T
 ---
 
 
 
-Gerade eben las ich im Zeit-Magazin (tue ich sonst nie), und zwar einen Artikel zum Lebensgefühl heute in Deutschland. Allenthalben hört man ja, dass etwas schief laufe.
+Gerade eben las ich im Zeit-Magazin (tue ich sonst nie), und zwar einen Artikel zum Lebensgefühl heute in Deutschland. Allenthalben hört man ja, dass etwas schief laufe.  
 
 
-Vielleicht bin ich sentimental, aber ich konnte den Artikel kaum aushalten. Einige Szene aus Flucht und Krieg wurden geschildert. Ein Wort, das ich las und mir gefiel, war, ob/dass wir den Luxus haben, uns über den Frieden und Wohlstand zu langweilen. (Eine Ursache, meiner Meinung nach, für die Missstimmung vieler Zeitgenossen.)
+Vielleicht bin ich sentimental, aber ich konnte den Artikel kaum aushalten. Einige Szene aus Flucht und Krieg wurden geschildert. Ein Wort, das ich las und mir gefiel, war, ob/dass wir den Luxus haben, uns über den Frieden und Wohlstand zu langweilen. (Eine Ursache, meiner Meinung nach, für die Missstimmung vieler Zeitgenossen.)  
 
 
 Da mich der Bericht so ergriffen hat, dachte ich mir, qualitative Forschung (sowas ähnliches ist ja ein Zeitungsbericht) hat ihren Sinn. Sie ergreift Menschen ganz anders als Statistiken über Schrecklichkeiten das tun. Außerdem hilft sie beim Verstehen, das ist etwas Wichtiges. Eigentlich wollte ich gar nicht Quali lehren; Statistik macht mir mehr Spaß. Jetzt freue ich mich auf Quali (fast).
