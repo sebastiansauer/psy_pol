@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Zum Zeit-Magazin vom 9. März 2017: Luxus, Krieg, Wissenschaft und Tat"
+title: "Zum Zeit-Magazin vom 9. März 2017. Luxus, Krieg, Wissenschaft und Tat"
 modified:
 categories: blog
 excerpt:
 tags: [Wissenschaft, Deutschland, Engagement]
-date: 2017-03-08T
+date: 2017-03-08
 ---
 
 
