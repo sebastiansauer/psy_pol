@@ -7,6 +7,7 @@ description: "Blog zur Psychologie des oeffentlichen Zeitgeschehens"
 logo: logo2.png
 search: true
 url: https://sebastiansauer.github.io/psy_pol
+disqus_shortname: https-sebastiansauer-github-io
 
 # Jekyll configuration
 
@@ -42,17 +43,10 @@ owner:
   name: Sebastian Sauer
   avatar: ses_portrait2.jpg
   email: ssauer@posteo.de
-  disqus-shortname:
+  disqus-shortname: https-sebastiansauer-github-io
   twitter: sauer_sebastian
-  facebook: #username
   github: sebastiansauer
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
   google:
     plus: #username
     analytics:
@@ -60,3 +54,6 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+
+comments: true
