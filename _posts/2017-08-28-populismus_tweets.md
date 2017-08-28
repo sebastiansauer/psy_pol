@@ -2,7 +2,6 @@
 title: "Wie populistisch tweeten unsere Politiker? Teil 1"
 subtitle: "Eine Analyse von Tweets"
 author: "Sebastian Sauer"
-date: 2017-08-28
 tags: [Populismus, textmining]
 layout: post
 categories: blog
