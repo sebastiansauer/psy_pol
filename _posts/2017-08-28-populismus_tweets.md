@@ -9,9 +9,12 @@ categories: blog
 ---
 
 
-# Warum eine Studie zu Populismus?
 
 Wir leben in einer Zeit, in der der Populismus erstarkt. Blickt man in die Türkei, in die Amerika, nach Russland - Populisten stehen an der Spitze des Staates. Man braucht kein Kenner der Geschichte des 20. Jahrhunderts zu sein, um zu wissen, wie gefährlich, falsch und drängend diese Situation ist.
+
+
+# Eine Studie zum Populismus
+
 
 Aber wie populistisch "sind" eigentlich die deutschen Politiker? Eine Analyse dazu kann - im besten Fall - ein schmales Schlaglicht auf einige Aspekte dieses Phänomens werfen. Sicher ist es daher sinnvoll, zurückhaltend zu argumentieren und keine übermäßige Sicherheit in den Ergebnissen vorzugeben. Aber neben dem Fehler der "Übergewissheit" gibt es auch den Fehler, auf Tatsachen zu wenig hinzuweisen und Missstände nicht anzukreiden. Entsprechend ist das Ziel der Analyse, auf der die folgenden Ergebnisse beruhen, zwar möglichst strenge Anforderungen an die Analyse zu setzen, aber trotzdem Ergebnisse aufzuzeigen auch wenn diese nur eingeschränkte Blicke auf ein breites und komplexes Phänomen zeigen.
 
@@ -22,14 +25,14 @@ In dieser Analyse habe ich ca. 400.000 Tweets deutscher Politiker gesammelt und 
 
 Die Daten (d.h. die Tweets) stammen größtenteils aus diesem Jahr (2017); aber auch ältere Tweets flossen ein. Die Daten wurden über die API von Twitter gesammelt; diese limitiert die Anzahl der (pro Zeitraum) abrufbaren Tweets, so dass es zu Einschränkungen bei der Anzahl der Tweets, die man einsammelt, kommen kann. Außerdem garantiert die API nicht, dass alle Tweets einer Person (eines Accounts) zurückgeliefert werden; ein Inhaber eines Accounts könnte sich entschließen, einen Tweet nachträglich zu löschen. In dem Fall würde dieser Tweet nicht mehr über die API geliefert werden.
 
-![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_timeline2.pdf)
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_timeline2.png)
 
 Nicht alle Parteien sind gleich aktiv bei Twitter. Nicht alle Accounts von Politiker fanden Eingang in diese Analyse. Tatsächlich fanden sich die meisten Accounts (und Tweets) bei der SPD.
 
 
-![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_accounts_per_party.pdf)
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_accounts_per_party.png)
 
-![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.pdf)
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.png)
 
 
 # Twitter-Accounts
@@ -44,7 +47,7 @@ Außerdem habe ich die meisten Tweets von Donald Trump aufgenommen. Ach ja, Mark
 
 Dass Donald Trump twittert wie verrückt, ist allgemein bekannt. Tatsächlich spiegelt sich das in den Daten wider.
 
-![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.pdf)
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.png)
 
 
 Insgesamt wurden ca. 200 Accounts berücksichtigt. Es wurden nicht alle zur Bundestagswahl zugelassenen Parteien berücksichtigt, sondern nur diese allseits bekannten:
@@ -90,7 +93,7 @@ Diese Indikatoren beruhen auf Häufigkeiten oder Mediane, je nach dem welche Sta
 Fasst man also die acht Populismus-Indikatoren zu einem "Populismuswert" zusammen, lässt sich ein Wert pro Partei ableiten.
 
 
-![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_party_pop_scores_2.pdf)
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_party_pop_scores_2.png)
 
 
 
