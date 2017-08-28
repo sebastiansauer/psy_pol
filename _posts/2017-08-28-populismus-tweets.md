@@ -24,12 +24,12 @@ In dieser Analyse habe ich ca. 400.000 Tweets deutscher Politiker gesammelt und 
 
 Die Daten (d.h. die Tweets) stammen größtenteils aus diesem Jahr (2017); aber auch ältere Tweets flossen ein. Die Daten wurden über die API von Twitter gesammelt; diese limitiert die Anzahl der (pro Zeitraum) abrufbaren Tweets, so dass es zu Einschränkungen bei der Anzahl der Tweets, die man einsammelt, kommen kann. Außerdem garantiert die API nicht, dass alle Tweets einer Person (eines Accounts) zurückgeliefert werden; ein Inhaber eines Accounts könnte sich entschließen, einen Tweet nachträglich zu löschen. In dem Fall würde dieser Tweet nicht mehr über die API geliefert werden.
 
-![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_timeline2.png)
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_timeline2.pdf)
 
 Nicht alle Parteien sind gleich aktiv bei Twitter. Nicht alle Accounts von Politiker fanden Eingang in diese Analyse. Tatsächlich fanden sich die meisten Accounts (und Tweets) bei der SPD.
 
 
-![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_accounts_per_party.png)
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_accounts_per_party.pdf)
 
 ![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.png)
 
@@ -42,7 +42,7 @@ Um Twitter-Accounts von deutschen Politikern zu bekommen, habe ich mich an diese
 - Twitter-Accounts des [Bundesvorstands der AfD](https://www.afd.de/partei/bundesvorstand/)
 - Twitter-Accounts des [Präsidiuums der FDP](https://www.fdp.de/seite/praesidium)
 
-Außerdem habe ich die meisten Tweets von Donald Trump aufgenommen. Ach ja, Markus Söder hat es auch noch geschafft. Etwas willkürlich zugegeben, aber mir viel auf, dass er nicht in den Listen oben enthalten war, obwohl er twittert.
+Außerdem habe ich die meisten Tweets von Donald Trump aufgenommen. Ach ja, Markus Söder hat es auch noch geschafft. Etwas willkürlich, zugegeben, aber mir viel auf, dass er nicht in den Listen oben enthalten war, obwohl er twittert.
 
 Dass Donald Trump twittert wie verrückt, ist allgemein bekannt. Tatsächlich spiegelt sich das in den Daten wider.
 
