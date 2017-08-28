@@ -5,7 +5,6 @@ modified:
 categories: blog
 excerpt:
 tags: [Wissenschaft, Deutschland, Engagement]
-date: 2017-03-09
 ---
 
 
@@ -27,8 +26,3 @@ Aber bei Anblick der ganzen "besorgten Bürger" denke ich, dass man sich (als Wi
 
 
 Wissenschaftler engagiert euch für die bürgerliche Gesellschaft in Freiheit!
-
-
-
-
-

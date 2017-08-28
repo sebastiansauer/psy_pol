@@ -2,7 +2,6 @@
 title: "Ansprache zum Jahreswechsel. Feuerigkeit zum Übernächsten"
 subtitle: "Feuerigkeit zum Übernächsten"
 author: "Sebastian Sauer"
-date: 2017-01-03
 tags: [engagement]
 layout: post
 categories: blog

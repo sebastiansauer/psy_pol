@@ -5,14 +5,11 @@ modified:
 categories: blog
 excerpt:
 tags: [Lehre, Forschung]
-image:
-  feature:
-date: 2016-11-15T
 ---
 
 Die 'offene Gesellschaft', durch [Karl Popper](https://de.wikipedia.org/wiki/Karl_Popper) publik gemacht, ist dadurch gekennzeichnet, dass der Staat keinen unnötigen Zwang auf die Bürger ausübt. Das bedeutet zum Beispiel, dass ich sagen kann, was ich möchte ohne Repressalien befürchten zu müssen. Oder wenn es morgens um sechs an der Tür klingelt, dass ich davon ausgehen kann, dass es der Milchmann ist. Selbstverständlich gilt das für alle Bürger, auch (und gerade) für Minderheiten.
 
-Eine zentrale Forderung der offenen Gesellschaft ist es also, dass Macht der Macht begrenzt sei. Zum Begrenzen gehört zuerst die Möglichkeit des Machtenzugs, sprich dem gewaltfreien Ablösen, dem Abwählen. Ein Alleinherrscher hingegen entzieht sich dieser Forderung; er (oder sie) will nicht abgelöst werden und wird seine Macht gegen die Absetzung einsetzen. 
+Eine zentrale Forderung der offenen Gesellschaft ist es also, dass Macht der Macht begrenzt sei. Zum Begrenzen gehört zuerst die Möglichkeit des Machtenzugs, sprich dem gewaltfreien Ablösen, dem Abwählen. Ein Alleinherrscher hingegen entzieht sich dieser Forderung; er (oder sie) will nicht abgelöst werden und wird seine Macht gegen die Absetzung einsetzen.
 
 Natürlich ist es theoretisch möglich, dass der Machthaber gut, edel, großmenschlich ist, daneben schlau und charakterlich vortrefflich ist. Die Erfahrung lehrt uns aber, dass es immer wieder, vielleicht auch meist, dazu kommt, dass Machthaber Macht ausnutzen - "böse" sind.
 
