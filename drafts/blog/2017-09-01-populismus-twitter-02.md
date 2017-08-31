@@ -63,3 +63,5 @@ Das Profil der Populismus-Indikatoren detailliert den aggregierten Populismuswer
 
 # Cave
 Bei allen diesen Aussagen wie "Sprachweise" etc. ist immer zu beachten, dass stets nur die Ergebnisse dieser Analyse gemeint sind. So ist kein direkter Schluss auf *alle* Kommunikationsweisen *aller* Politiker Deutschlands zu *allen* Zeiten etc. gemeint. Die Repräsentativität von Tweets für alle Aussagen einer Partei ist auch diskussionswürdig. Allerdings spielen Nachrichten in den sozialen Medien wie Twitter eine große Rolle in der Darstellung von Parteien. Daher kommt Tweets und deren Analyse eine substanzielle Bedeutung zu - man denke an das Twitter-Gewitter von Donald Trump.
+
+Die technischen Details sind öffentlich einsehbar bei [Github](https://github.com/sebastiansauer/polits_tweet_mining). Die Analyse ist noch nicht abgeschlossen und die Ergebnisse sind insofern vorläufig.
