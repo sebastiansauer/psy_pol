@@ -1,0 +1,20 @@
+---
+title: "Wie populistisch tweeten unsere Politiker? Teil 2"
+subtitle: "Details zum Populismus-Profil"
+author: "Sebastian Sauer"
+tags: [Populismus, textmining]
+layout: post
+categories: blog
+---
+
+
+Im ersten Teil dieser Serie haben wir uns einen Überblick verschafft über den "Populismuswert" einiger deutscher Parteien, s. [hier](https://sebastiansauer.github.io/psy_pol/blog/populismus-tweets/).
+
+Dieser Populismuswert basiert auf der Analyse von ca. 400.000 Tweets von ca. 200 deutschen Politikern. Etwa 6 Millionen Wörter gingen in die Analyse ein. Auf diesem Datensatz wurden 8 Kriterien für Populismus extrahiert, die auf Karl Poppers Idee der Stammesgesellschaft als Ursprung populistischen Denkens beruhen.
+
+Als Referenzpunkt wurde Donald Trump in die Analyse einbezogen; wie zu erwarten, führte Donald Trump mit großem Vorsprung die Populismus-Rangliste an. Allerdings ist hinzuzufügen, dass alle übrigen Politiker auf Deutsch twittern, nur Trump auf Entlisch. Der Sprachenunterschied kann die Vergleichbarkeit der Ergebnisse beeinflussen. Allerdings scheint plausibel, dass z.B. die Häufigkeit von Auszrufezeichen oder von Großbuchstaben in englischer und deutscher Sprache in ähnlicher Häufigkeit auftreten kann.
+
+![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_party_pop_scores_2.png)
+
+
+Wie man sieht, erreicht die AfD den höchsten Populismuswert deutscher Parteien, kurz gefolgt von der Linken.
