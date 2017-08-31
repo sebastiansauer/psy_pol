@@ -31,6 +31,8 @@ Nicht alle Parteien sind gleich aktiv bei Twitter. Nicht alle Accounts von Polit
 
 ![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_accounts_per_party.png)
 
+Die meisten Tweets pro Tag kamen von den Grünen; die CSU zwitscherte am wenigsten.
+
 ![](https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.png)
 
 
