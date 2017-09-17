@@ -21,7 +21,7 @@ Man kann dagegen halten, dass man auch rationale Argumente mit Emotionalität "s
 # Emotionswert der Tweets nach Parteien
 Betrachten wir einige Ergebnisse:
 
-<img src="https://sebastiansauer.github.io/psy_pol/images/2017-09-15/p_emo_per_party.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="50%" style="display: block; margin: auto;" />
+<img src="https://sebastiansauer.github.io/psy_pol/images/2017-09-15/p_emo_per_party.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="80%" style="display: block; margin: auto;" />
 
 Die Abbildung zeigt, dass der (mediane) Emotionsgehalt in den Tweets der AfD am stärksten ausgeprägt ist. Die CSU hingegen markiert das untere Ende der Emotionalität; ihr Wert ist im Vergleich am geringsten ausgeprägt. Zu beachten ist, dass hier z-Werte dargestellt sind. z-Werte zeigen, wie weit eine Partei vom mittleren Wert über alle Parteien bzw. über alle Politiker entfernt ist. Große positive Werte bedeuten also weit überdurchschnittliche Werte etc. Natürlich ist zu beachten, dass hier nur eine Stichprobe (wenn auch eine recht große) aller Tweets betrachtet wurde. Außerdem sind Tweets sicher nicht mehr als ein Teil (eine Stichprobe) der gesamten Kommunikation oder dem gesamten öffentlichen Auftreten einer Partei; und ein nicht unbedingt repräsentativer. Allerdings ein nicht unwesentlicher.
 

@@ -18,7 +18,7 @@ Zu diesem Zweck wurde die Liste aller Tweets bzw. (genauer) die Liste der Wörte
 Das Ergebnis ist recht eindeutig:
 
 
-<img src="https://sebastiansauer.github.io/psy_pol/images/2017-09-15/p_horde_03_boxplot.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="50%" style="display: block; margin: auto;" />
+<img src="https://sebastiansauer.github.io/psy_pol/images/2017-09-15/p_horde_03_boxplot.png" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="80%" style="display: block; margin: auto;" />
 
 
 Die AfD verwendet "Deutsch-Begriffe" deutlich am häufigsten. Der zweite Platz geht an eine Politikerin, die der Union angehörte, aber die Partei verlassen hat und jetzt fraktionslos im Bundestag sitzt. Da es sich hier nur um eine Person handelt, sollte diesem Wert nur wenig Bedeutung zugemessen werden. Der dritte Platz geht an die Union, wobei sich die Schwesterparteien CDU und CSU sich kaum unterscheiden. Die FDP markiert das untere Ende der Häufigkeitsliste.
