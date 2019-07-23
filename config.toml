@@ -2,7 +2,7 @@ theme = "hyde"
 baseURL = "https://psy-pol.netlify.com/"
 languageCode = "de-De"
 title = "psy_pol"
-author = "Sebastian Sauer"
+
 
 license = "MIT"
 tags = ["blog", "company"]
@@ -10,12 +10,9 @@ features = ["blog", "themes", "disqus"]
 min_version = 0.53
 
 [author]
-    name = "Sebastian Sauer"
     description = "Blog zur Psychologie des öffentlichen Zeitgeschehens, von Sebastian Sauer"
-    
-[site]
     author = "Sebastian Sauer"
-    
+
 [params]
     themeColor = "theme-base-0d"
     GitHubUser = "sauer_sebastian"
@@ -26,9 +23,6 @@ min_version = 0.53
 [params.social]
     github = "sauer_sebastian"
   
-# If Porting existing theme
-[original]
-    author =  "Sebastian Sauer"
 
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
