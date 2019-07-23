@@ -2,21 +2,20 @@ theme = "hyde"
 baseURL = "https://psy-pol.netlify.com/"
 languageCode = "de-De"
 title = "psy_pol"
+Author = "Sebastian Sauer"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 license = "MIT"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
 min_version = 0.53
 
-[author]
-    description = "Blog zur Psychologie des öffentlichen Zeitgeschehens, von Sebastian Sauer"
-    author = "Sebastian Sauer"
+ 
 
 [params]
     themeColor = "theme-base-0d"
     GitHubUser = "sauer_sebastian"
-    Subtitle = "Hugo is Absurdly Fast!"  
     description = "Blog zur Psychologie des öffentlichen Zeitgeschehens, von Sebastian Sauer"
 
 
@@ -24,6 +23,4 @@ min_version = 0.53
     github = "sauer_sebastian"
   
 
-
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
