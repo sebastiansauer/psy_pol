@@ -1,5 +1,5 @@
 theme = "hyde"
-baseURL = "http://example.org/"
+baseURL = "https://psy-pol.netlify.com/"
 languageCode = "de-De"
 title = "psy_pol"
 
@@ -13,12 +13,14 @@ min_version = 0.53
 [author]
     name = "Sebastian Sauer"
 
-
+[params]
+  themeColor = "theme-base-04"
+  
+  
 # If Porting existing theme
 [original]
-    author =  "mdo"
-    homepage = "http://markdotto.com/"
-    repo = "https://www.github.com/mdo/hyde"
+    author =  "Sebastian Sauer"
+
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
