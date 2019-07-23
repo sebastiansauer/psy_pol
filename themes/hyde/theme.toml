@@ -1,7 +1,7 @@
 name = "Hyde"
 license = "MIT"
 licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
-description = "Blog zur Psychologie des öffentlichen Zeitgeschehens"
+description = "Blog zur Psychologie des öffentlichen Zeitgeschehens, von Sebastian Sauer"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
 min_version = 0.53
