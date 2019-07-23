@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563882616175.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1105688064",
+    "id" : "6FB22816",
+    "lastKnownWriteTime" : 1563882739,
+    "last_content_update" : 1563882739278,
+    "path" : "~/Documents/Publikationen/blog_ses/psy_pol/themes/hyde/layouts/partials/sidebar.html",
+    "project_path" : "themes/hyde/layouts/partials/sidebar.html",
+    "properties" : {
+        "cursorPosition" : "5,110",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

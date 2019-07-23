@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AfD on psy_pol</title>
+    <link>/tags/afd/</link>
+    <description>Recent content in AfD on psy_pol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-De</language>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/afd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Was Spiderman mit Rechtspopulismus, Bildung und Verantwortung zu tun hat</title>
+      <link>/post/2019-07-22-ansprache_sose19/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-07-22-ansprache_sose19/</guid>
+      <description>Dass wir in einer ereignisreichen Zeit leben, ist eine Plattitüde; andere Zeiten waren noch ereignisreicher und man darf annehmen, dass dies für zukünftige Zeiten ebenso zutrifft. Die bessere Frage ist, welche Ereignisse der letzten Zeit besonders herausstechen. Lässt man die Ereignisse mit großem Einfluss auf das Zeitgeschehen Revue passieren (schließlich ist die Jahreshalbzeit kürzlich verstrichen; eine gute Gelegenheit für eine Rückbesinnung), so kann man – mit Deutschland im Blickpunkt – nennen: Handelskriege der USA mit China und anderen Ländern, terroristische Anschläge in Lyon, Christchurch und Sri Lanka und der Mord an den Kasseler Politiker Walter Lübcke.</description>
+    </item>
+    
+    <item>
+      <title>Die &#39;AfD-Abgehängten-Follower-Hypothese&#39;</title>
+      <link>/post/2017-10-12-afd-map/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-10-12-afd-map/</guid>
+      <description>Eine häufig diskutierte Hypothese im Lichte der hohen Wahlerfolge der AfD lautet, dass die AfD von &amp;ldquo;Abgehängten&amp;rdquo; oder vielleicht besser &amp;ldquo;sich abgehängt fühlenden Bürgern&amp;rdquo; gewählt würde. Entsprechend könnte man von einer &amp;ldquo;AfD-Abgehängten-Follower-Hypothese&amp;rdquo; sprechen.
+Es wurden einige Argumente/ Belege dafür und einige dagegen angeführt. Dieser Post untersucht diese Hypothese anhand der Wahlergebnisse der BTW17: Es werden die Wahlergebnisse der AfD (Zweitstimmen) ins Verhältnis gesetzt mit der Arbeitslosenquote des jeweiligen Wahlkreises. Das Ergebnis wird dann pro Wahlkreis visualisiert; dabei spiegelt im Diagramm die Farbnuance eines Wahlkreises die Übereinstimmung wider zwischen AfD-Wahlergebnis und der Arbeitslosigkeit.</description>
+    </item>
+    
+  </channel>
+</rss>

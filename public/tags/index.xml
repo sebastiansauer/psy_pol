@@ -1,40 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on psy_pol</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on psy_pol</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <language>de-De</language>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>AfD</title>
+      <link>/tags/afd/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/afd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Populismus</title>
+      <link>/tags/populismus/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/tags/populismus/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Rechtsextremismus</title>
+      <link>/tags/rechtsextremismus/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/tags/rechtsextremismus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>btw17</title>
+      <link>/tags/btw17/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/btw17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>textmining</title>
+      <link>/tags/textmining/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/textmining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popper</title>
+      <link>/tags/popper/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/popper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>offene_Gesellschaft</title>
+      <link>/tags/offene_gesellschaft/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/offene_gesellschaft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deutschland</title>
+      <link>/tags/deutschland/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deutschland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement</title>
+      <link>/tags/engagement/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wissenschaft</title>
+      <link>/tags/wissenschaft/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wissenschaft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forschung</title>
+      <link>/tags/forschung/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/forschung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lehre</title>
+      <link>/tags/lehre/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lehre/</guid>
       <description></description>
     </item>
     

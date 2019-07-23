@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>textmining on psy_pol</title>
+    <link>/tags/textmining/</link>
+    <description>Recent content in textmining on psy_pol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-De</language>
+    <lastBuildDate>Fri, 15 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/textmining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wie populistisch tweeten unsere Politiker? Teil 3</title>
+      <link>/post/2017-09-15-populismus-twitter-03/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-09-15-populismus-twitter-03/</guid>
+      <description>In diesem dritten Teil der Serie geht es um den Grad der Emotionalität der Tweets der Politiker bzw. der Parteien. Dieser Wert ist vielleicht deswegen am interessantesten, da der theoretische Bezug zum Populismus am stärksten ist. Einige Theorien - wie die Elaboration Likelihood Theorie von Petty und Cacioppo1 oder die Dual Processing Theorie2 gehen davon aus, dass Emotion verwendet wird, um ohne Fakten, ohne rationale Argumente zu überzeugen. In diesem Sinne kann Emotionalität in der Sprache, gerade bei Politikern, als ein nicht-rationaler, nicht vernunftorienterter Versuch der Überzeugung verstanden werden - Populismus insofern.</description>
+    </item>
+    
+    <item>
+      <title>Wie populistisch tweeten unsere Politiker? Teil 4</title>
+      <link>/post/2017-09-15-populismus-twitter-04/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-09-15-populismus-twitter-04/</guid>
+      <description>In diesem vierten Teil der Analyse von Tweets deutscher Parteien geht es um die Frage, welche Bedeutung Wörter mit dem Stamm &amp;lsquo;deutsch&amp;rsquo; in den Tweets der Politiker haben, also Wörter wie &amp;ldquo;Deutsch&amp;rdquo;, &amp;ldquo;Deutschland&amp;rdquo;, &amp;ldquo;Deutsche&amp;rdquo;. Kurz: wer spricht am meisten über &amp;ldquo;Deutsches&amp;rdquo;?
+Zu diesem Zweck wurde die Liste aller Tweets bzw. (genauer) die Liste der Wörter der Tweets ausgelesen nach dem Wortstamm &amp;lsquo;deutsch*&amp;lsquo;. Damit wurden alle Wörter berücksichtigt, die mit &amp;lsquo;deutsch&amp;rsquo; beginnen.</description>
+    </item>
+    
+    <item>
+      <title>Wie populistisch tweeten unsere Politiker? Teil 5</title>
+      <link>/post/2017-09-15-populismus-twitter-05/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-09-15-populismus-twitter-05/</guid>
+      <description>Dieser fünfte Teil der Analyse von Tweets deutscher Parteien fragt, wessen Text sich wie stark aus Wörtern der Stammesgesellschaft oder &amp;lsquo;geschlossener&amp;rsquo; Gesellschaft speist. Je näher ein Text (die Tweets eines Politikers) zu dieser &amp;lsquo;Stammessprache&amp;rsquo;, desto höher der Populismus, so die Hypothese. Dabei ist zu bedenken, dass Populismus - wie in allen Teilen der Studie - definiert ist, als Manifestation einer Denk- oder Seinsweise der &amp;lsquo;geschlossenen Gesellschaft&amp;rsquo;, wie es Popper definiert hat.</description>
+    </item>
+    
+    <item>
+      <title>Wie populistisch tweeten unsere Politiker? Teil 2</title>
+      <link>/post/2017-08-31-populismus-tweets-02/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-08-31-populismus-tweets-02/</guid>
+      <description>Im ersten Teil dieser Serie haben wir uns einen Überblick verschafft über den &amp;ldquo;Populismuswert&amp;rdquo; einiger deutscher Parteien, s. hier.
+Datenmaterial Dieser Populismuswert basiert auf der Analyse von ca. 400.000 Tweets von ca. 200 deutschen Politikern. Etwa 6 Millionen Wörter gingen in die Analyse ein. Auf diesem Datensatz wurden 8 Kriterien für Populismus extrahiert, die auf Karl Poppers Idee der Stammesgesellschaft als Ursprung populistischen Denkens beruhen.
+Analyse Als Referenzpunkt wurde Donald Trump in die Analyse einbezogen; wie zu erwarten, führte Donald Trump mit großem Vorsprung die Populismus-Rangliste an.</description>
+    </item>
+    
+    <item>
+      <title>Wie populistisch tweeten unsere Politiker? Teil 1</title>
+      <link>/post/2017-08-28-populismus-tweets/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-08-28-populismus-tweets/</guid>
+      <description>Wir leben in einer Zeit, in der der Populismus erstarkt. Blickt man in die Türkei, in die Amerika, nach Russland - Populisten stehen an der Spitze des Staates. Man braucht kein Kenner der Geschichte des 20. Jahrhunderts zu sein, um zu wissen, wie gefährlich, falsch und drängend diese Situation ist.
+Eine Studie zum Populismus Aber wie populistisch &amp;ldquo;sind&amp;rdquo; eigentlich die deutschen Politiker? Eine Analyse dazu kann - im besten Fall - ein schmales Schlaglicht auf einige Aspekte dieses Phänomens werfen.</description>
+    </item>
+    
+  </channel>
+</rss>

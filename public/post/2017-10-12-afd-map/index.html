@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-De" lang="de-De">
+<head>
+  <link href="//gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.55.6" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Die &#39;AfD-Abgehängten-Follower-Hypothese&#39; &middot; psy_pol</title>
+
+  
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="/css/poole.css">
+  <link type="text/css" rel="stylesheet" href="/css/syntax.css">
+  <link type="text/css" rel="stylesheet" href="/css/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  
+</head>
+
+  <body class=" ">
+  <aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="/"><h1>psy_pol</h1></a>
+      <p class="lead">
+      Blog zur Psychologie des öffentlichen Zeitgeschehens
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="/">Home</a> </li>
+        
+      </ul>
+    </nav>
+
+    <p>&copy; 2019. All rights reserved. </p>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Die &#39;AfD-Abgehängten-Follower-Hypothese&#39;</h1>
+  <time datetime=2017-10-12T00:00:00Z class="post-date">Thu, Oct 12, 2017</time>
+  
+
+<p>Eine häufig diskutierte Hypothese im Lichte der hohen Wahlerfolge der AfD lautet, dass die AfD von &ldquo;Abgehängten&rdquo; oder vielleicht besser &ldquo;sich abgehängt fühlenden Bürgern&rdquo; gewählt würde. Entsprechend könnte man von einer &ldquo;AfD-Abgehängten-Follower-Hypothese&rdquo; sprechen.</p>
+
+<p>Es wurden einige Argumente/ Belege dafür und einige dagegen angeführt. Dieser Post untersucht diese Hypothese anhand der Wahlergebnisse der BTW17: Es werden die Wahlergebnisse der AfD (Zweitstimmen) ins Verhältnis gesetzt mit der Arbeitslosenquote des jeweiligen Wahlkreises. Das Ergebnis wird dann pro Wahlkreis visualisiert; dabei spiegelt im Diagramm die Farbnuance eines Wahlkreises die Übereinstimmung wider zwischen AfD-Wahlergebnis und der Arbeitslosigkeit.</p>
+
+<h1 id="daten-und-analyse">Daten und Analyse</h1>
+
+<p>Die Daten stammen vom Bundeswahlleiter und wurden am 10. Oktober 2017 heruntergeladen. Details zu den Daten und der Analyse sind <a href="https://sebastiansauer.github.io/afd-map/">hier</a> nachzulesen.</p>
+
+<h1 id="arbeitslosigkeit-und-afd-stimmen-einzeln">Arbeitslosigkeit und AfD-Stimmen einzeln</h1>
+
+<p>Dieses Diagramm zeigt die Arbeitslosigkeit pro Wahlkreis:</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-10-12/unemp.png" alt="" /></p>
+
+<p>Wie man sieht, ist die Arbeitslosigkeit im Süden deutlich geringer als im Norden; im Osten insgesamt etwas höher als im Westen.</p>
+
+<p>Dieses Diagramm zeigt den Anteil gültiger Zweitstimmen bei der Bundestagswahl 2017:</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-10-12/afd_prop.png" alt="" /></p>
+
+<p>Das Diagramm zeigt, wie allgemein bekannt, dass in Sachsen die AfD-Zustimmung am höchsten ist; Werte um 30% sind in rotem Farbton dargestellt (eine Standard-Farbpalette übrigens).</p>
+
+<h1 id="afd-stimmen-im-verhältnis-zur-arbeitslosigkeit">AfD-Stimmen im Verhältnis zur Arbeitslosigkeit</h1>
+
+<p>Kommen wir zur zentralen Frage dieses Posts: Steht die AfD-Stimmenzahl (eines Wahlkreises) im direkten Zusammenhang mit der Arbeitslosigkeit (des Wahlkreises)?</p>
+
+<p>Es gibt verschiedene Wege, diese Frage anzugehen. Ein Weg ist, das Verhältnis von AfD-Anteil zur Arbeitslosenquote zu bilden. Ein Wert von 1 würde dann sagen, dass der AfD-Stimmen-Prozentwert dem Prozentwert der Arbeitslosigkeit entspricht. Ein Wert von 2 sagt, dass der AfD-Anteil doppelt so groß wie die Arbeitslosigkeit ist usw. Im folgenden Diagramm ist diese &ldquo;AfD-Dichte&rdquo; dargestellt:</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-10-12/afd_dens.png" alt="" /></p>
+
+<p>Man sieht, dass im reichen Zentralbayern <em>im Verhältnis zur Arbleitslosigkeitsquote relativ</em> am meisten Leute die AfD gewählt haben. Offenbar war hier die Arbeitslosigkeit weniger ausschlaggebend als in anderen Gebieten. Oder die Arbeitslosigkeit war nirgends ausschlaggebend; zumindest ist sie keine vollständige Erklärung.</p>
+
+<p>Eine andere Interpretation ist es, die AfD-Quote anhand der Arbeitslosigkeit vorherzusagen (mittels einfacher linearer Regression). Dann kann man sich die vorhergesagten Werte anschauen und diese mit den tatsächlichen Werten in den Wahlkreisen vergleichen. Die Größe der Abweichung dieser beiden Werten ist dann ein Indikator dafür, ob in einem Wahlkreis der AfD-Anteil über oder unter der Erwartung (aus Sicht dieses Modells) liegt. Schauen wir uns die Ergebnisse an:</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-10-12/afd_lm.png" alt="" /></p>
+
+<p>Diese Analyse zeigt, dass die östlichen Wahlkreise und speziell Sachsen über der Erwartung liegen: Für ihre Arbeitslosigkeit wäre weniger AfD-Anteil zu erwarten gewesen (laut diesem Modell).</p>
+
+<p>Eine dritte Betrachtungsweise ist es, die einzelnen Wahlkreise hinsichtlich ihrer Arbeitslosigkeit und ihrem AfD-Anteil in eine Rangfolge zu bringen. Dann kann man schauen, ob der AfD-Rangplatz ähnlich zu dem Rangplatz der Arbeitslosigkeit ausfällt; diese Werte wurden dann auf 0% bis 100% normiert. Ein AfD-Rangwert von 70% heißt, dass dieser Wahlkreis eine höhere AfD-Quote hat als 70% der Wahlkreise - 30% der Wahlkreise haben eine höhere AfD-Quote. Für Arbeitslosigkeit gilt die gleiche Überlegung. Konkret wurde hier die Rechnung &ldquo;AfD-Anteil minus Arbeitslosigkeitsanteil&rdquo; ausgeführt. Demnach bedeuten positive Werte (größer null), dass die AfD-Quote größer ist als die Arbeitslosigkeitsquote und umgekehrt. Betrachten wir das Ergebnis:</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-10-12/afd_unemp_diff.png" alt="" /></p>
+
+<p>Diese Betrachtungsweise zeigt wiederum, dass der Süden und der Osten zu AfD-lastig sind, im Verhältnis zu ihren Rangplätze der Arbeitslosigkeit (laut diesem Modell). Umgekehrt ist der Westen und der Norden weniger AfD-lastig als es die Rangplätze der Arbeitslosigkeit erwarten lassen würde. Das &ldquo;erwarten lassen würden&rdquo; geht stets von der Hypothese aus, dass Arbeitslosigkeit und AfD-Quote kovariieren, also hohe Werte im Einen mit hohen Werten im Anderen miteinander einhergehen.</p>
+
+<p>In dieser Betrachtung sind die südlichen Wahlkreise allerdings sogar &ldquo;relativ AfD-stärker&rdquo; als die östlichen. Vermutlich ist aber die obige Analyse die bessere, da hier nur mit Ranglätzen gearbeitet wurde, also mit weniger Information als in der Regression oben.</p>
+
+<h1 id="fazit">Fazit</h1>
+
+<p>Es findet sich einiger Beleg, dass die Arbeitslosigkeit mit der AfD-Quote <em>etwas</em> zusammenhängt. Allerdings ist der Zusammenhang nicht sehr ausgeprägt. Andere Faktoren spielen offenbar insgesamt eine größere Rolle. Auf der anderen Seite: In Anbetracht der ungeheuren Vielfalt von denkbaren Einflüssen auf das Wahlverhalten ist eine Korrelation von .18 durchaus stark. Wenn man jetzt praktisch denkt und nach Konsequenzen und &ldquo;was tun&rdquo; fragt, was sehr berechtigt ist, darf allerdings nicht vergessen werden, dass Korrelationen kein Garant für echte (kausale) Ursachen sind.</p>
+
+</div>
+
+
+    </main>
+
+    
+  </body>
+</html>

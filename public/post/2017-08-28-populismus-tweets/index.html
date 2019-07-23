@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-De" lang="de-De">
+<head>
+  <link href="//gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.55.6" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Wie populistisch tweeten unsere Politiker? Teil 1 &middot; psy_pol</title>
+
+  
+  <link type="text/css" rel="stylesheet" href="/css/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="/css/poole.css">
+  <link type="text/css" rel="stylesheet" href="/css/syntax.css">
+  <link type="text/css" rel="stylesheet" href="/css/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  
+</head>
+
+  <body class=" ">
+  <aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="/"><h1>psy_pol</h1></a>
+      <p class="lead">
+      Blog zur Psychologie des öffentlichen Zeitgeschehens
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="/">Home</a> </li>
+        
+      </ul>
+    </nav>
+
+    <p>&copy; 2019. All rights reserved. </p>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Wie populistisch tweeten unsere Politiker? Teil 1</h1>
+  <time datetime=2017-08-28T00:00:00Z class="post-date">Mon, Aug 28, 2017</time>
+  
+
+<p>Wir leben in einer Zeit, in der der Populismus erstarkt. Blickt man in die Türkei, in die Amerika, nach Russland - Populisten stehen an der Spitze des Staates. Man braucht kein Kenner der Geschichte des 20. Jahrhunderts zu sein, um zu wissen, wie gefährlich, falsch und drängend diese Situation ist.</p>
+
+<h1 id="eine-studie-zum-populismus">Eine Studie zum Populismus</h1>
+
+<p>Aber wie populistisch &ldquo;sind&rdquo; eigentlich die deutschen Politiker? Eine Analyse dazu kann - im besten Fall - ein schmales Schlaglicht auf einige Aspekte dieses Phänomens werfen. Sicher ist es daher sinnvoll, zurückhaltend zu argumentieren und keine übermäßige Sicherheit in den Ergebnissen vorzugeben. Aber neben dem Fehler der &ldquo;Übergewissheit&rdquo; gibt es auch den Fehler, auf Tatsachen zu wenig hinzuweisen und Missstände nicht anzukreiden. Entsprechend ist das Ziel der Analyse, auf der die folgenden Ergebnisse beruhen, zwar möglichst strenge Anforderungen an die Analyse zu setzen, aber trotzdem Ergebnisse aufzuzeigen auch wenn diese nur eingeschränkte Blicke auf ein breites und komplexes Phänomen zeigen.</p>
+
+<h1 id="datenmaterial">Datenmaterial</h1>
+
+<p>In dieser Analyse habe ich ca. 400.000 Tweets deutscher Politiker gesammelt und ausgewertet. Dazu kommen noch ca. 30.000 Tweets von Donald Trump, der als Vergleichsmaßstab herhalten wird (Danke, Herr Trump). Insgesamt flossen ca. 6 Millionen Wörter in diese Analyse ein. Die technischen Details sind öffentlich einsehbar bei <a href="https://github.com/sebastiansauer/polits_tweet_mining">Github</a>. Die Analyse ist noch nicht abgeschlossen und die Ergebnisse sind insofern vorläufig.</p>
+
+<p>Die Daten (d.h. die Tweets) stammen größtenteils aus diesem Jahr (2017); aber auch ältere Tweets flossen ein. Die Daten wurden über die API von Twitter gesammelt; diese limitiert die Anzahl der (pro Zeitraum) abrufbaren Tweets, so dass es zu Einschränkungen bei der Anzahl der Tweets, die man einsammelt, kommen kann. Außerdem garantiert die API nicht, dass alle Tweets einer Person (eines Accounts) zurückgeliefert werden; ein Inhaber eines Accounts könnte sich entschließen, einen Tweet nachträglich zu löschen. In dem Fall würde dieser Tweet nicht mehr über die API geliefert werden.</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_timeline2.png" alt="" /></p>
+
+<p>Nicht alle Parteien sind gleich aktiv bei Twitter. Nicht alle Accounts von Politiker fanden Eingang in diese Analyse. Tatsächlich fanden sich die meisten Accounts (und Tweets) bei der SPD.</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_accounts_per_party.png" alt="" /></p>
+
+<p>Die meisten Tweets pro Tag kamen von den Grünen; die CSU zwitscherte am wenigsten.</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.png" alt="" /></p>
+
+<h1 id="twitter-accounts">Twitter-Accounts</h1>
+
+<p>Um Twitter-Accounts von deutschen Politikern zu bekommen, habe ich mich an diese Listen gehalten:</p>
+
+<ul>
+<li><a href="https://twitter.com/dw_politics/lists/german-politicians/members">Liste</a> &ldquo;German Politicians&rdquo; der <a href="http://www.dw.com/de/unternehmen/profil/s-30626">Deutschen Welle</a></li>
+<li>Twitter-Accounts des <a href="https://www.afd.de/partei/bundesvorstand/">Bundesvorstands der AfD</a></li>
+<li>Twitter-Accounts des <a href="https://www.fdp.de/seite/praesidium">Präsidiuums der FDP</a></li>
+</ul>
+
+<p>Außerdem habe ich die meisten Tweets von Donald Trump aufgenommen. Ach ja, Markus Söder hat es auch noch geschafft. Etwas willkürlich, zugegeben, aber mir viel auf, dass er nicht in den Listen oben enthalten war, obwohl er twittert.</p>
+
+<p>Dass Donald Trump twittert wie verrückt, ist allgemein bekannt. Tatsächlich spiegelt sich das in den Daten wider.</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_tweets_day_party_md_no_trump.png" alt="" /></p>
+
+<p>Insgesamt wurden ca. 200 Accounts berücksichtigt. Es wurden nicht alle zur Bundestagswahl zugelassenen Parteien berücksichtigt, sondern nur diese allseits bekannten:</p>
+
+<ul>
+<li>CDU</li>
+<li>CSU</li>
+<li>SPD</li>
+<li>Grüne</li>
+<li>Linke</li>
+<li>FDP</li>
+<li>AfD</li>
+<li>(Trump)</li>
+</ul>
+
+<h1 id="forschungsfrage">Forschungsfrage</h1>
+
+<p>Zentrale Frage dieser Analyse ist: Wie populistisch twittert welche Partei? Davon abgeleitet: Welche Partei zeigt den meisten Populismus in der Art, wie ihre (führenden) Vertreter twittern? Wie ähnlich sind die deutschen Parteien in dieser Hinsicht zu Trump?</p>
+
+<h1 id="twitter-als-daten-fundgrube">Twitter als Daten-Fundgrube</h1>
+
+<p>Twitter bietet sich als Datenfundgrube an, da die Tweets öffentlich verfügbar sind und das in recht großer Masse. Natürlich ist diese Stichprobe keineswegs perfekt: Twitter ist kein repräsentativer Schnitt durch die Kommunikationslandschaft der Politik. Tweets sind auch nicht typisch für die Art, wie wir sprechen. Aber auf der anderen Seite ist es eben der vielleicht größte Datenschatz an öffentlicher Kommunikation.</p>
+
+<h1 id="definition-von-populismus">Definition von Populismus</h1>
+
+<p>Die Definition von Populismus, die hier Pate steht, beruht auf Karl Poppers Idee von der Stammesgesellschaft, wie er es in seinem Buch &ldquo;Die offene Gesellschaft und ihre Feinde darstellt&rdquo;. In <a href="https://sebastiansauer.github.io/psy_pol/blog/Urhorde/">diesem Post</a> habe ich diese Idee kürzlich versucht darzustellen.</p>
+
+<p>Konkret lief es auf folgende acht Indikatoren von Populismus hinaus, die dann zu einem Wert zusammengefasst werden:</p>
+
+<ul>
+<li>&ldquo;Wortkürze&rdquo;</li>
+<li>&ldquo;Verhältnis negativer/positiver Wörter&rdquo;,</li>
+<li>&ldquo;Anteil negativer Wörter&rdquo;,</li>
+<li>&ldquo;Anteil emotionaler Wörter&rdquo;,</li>
+<li>&ldquo;Wert an negativer Emotion&rdquo;,</li>
+<li>&ldquo;Wert an Emotionalität&rdquo;,</li>
+<li>&ldquo;Anteil GROSSBUCHSTABEN&rdquo;,</li>
+<li>&ldquo;Verhältnis von Adjektiven zu Adverben&rdquo;</li>
+</ul>
+
+<p>Diese Indikatoren beruhen auf Häufigkeiten oder Mediane, je nach dem welche Statistik am besten passte. Dann wurde der Wert einer Person umgerechnet in einen Prozentrang (genauer: z-Wert) im Feld aller Accounts.</p>
+
+<h1 id="populismus-werte-nach-parteien">Populismus-Werte nach Parteien</h1>
+
+<p>Fasst man also die acht Populismus-Indikatoren zu einem &ldquo;Populismuswert&rdquo; zusammen, lässt sich ein Wert pro Partei ableiten.</p>
+
+<p><img src="https://sebastiansauer.github.io/psy_pol/images/2017-08-28/p_party_pop_scores_2.png" alt="" /></p>
+
+<p>Wie man sieht, führt Trump deutlich hinsichtlich Populismus (wie in dieser Studie analysiert). Danach kommt die AfD, kurz danach die Linke. Interessanterweise sind die großen Volksparteien (CDU, CSU, SPD) am anderen Ende des Spektrums angesiedelt, also viel weniger populistisch.</p>
+
+<h1 id="fazit-trump-führt-afd-folgt">Fazit: Trump führt, AfD folgt</h1>
+
+<p>Dieser erste Einblick in eine recht umfassende Analyse (mehr Ergebnisse folgen) bestätigt den allgemeinen Eindruck, dass Trump sehr populistisch ist und dass die AfD die vielleicht populistischste deutsche Partei ist. Natürlich: die Ergebnisse sollten noch deutlich genauer im Detail betrachtet werden und im Fachpublikum diskutiert werden (das wird z.B. im Rahmen <a href="http://aow2017.de/">dieser Konferenz</a> passieren).</p>
+
+<h1 id="cave">Cave</h1>
+
+<p>Es ist auch klar, dass bei der Analyse eines komplexen Datenmaterials es zwangsläufig viele Entscheidungen gibt, die die Ergebnisse beeinflussen können. Ein Beispiel: Soll die &ldquo;mittlere&rdquo; Anzahl von Tweets auf dem Median oder dem Mittelwert beruhen? (Hier wurde immer der Median gewählt). Fragen solcher Art gibt es einige; es ist nicht ganz klar, wie sehr diese Entscheidungen die Ergebnisse dieser Studie (oder ähnlicher) beeinflussen.</p>
+
+<p>Mehr Ergebnisse folgen später. Fachleute sind herzlich eingeladen, mit dem Code bei  <a href="https://github.com/sebastiansauer/polits_tweet_mining">Github</a> weiterzuarbeiten. Diskussion ist willkommen.</p>
+
+</div>
+
+
+    </main>
+
+    
+  </body>
+</html>

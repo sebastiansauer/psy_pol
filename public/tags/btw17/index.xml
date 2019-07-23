@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>btw17 on psy_pol</title>
+    <link>/tags/btw17/</link>
+    <description>Recent content in btw17 on psy_pol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-De</language>
+    <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/btw17/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die &#39;AfD-Abgehängten-Follower-Hypothese&#39;</title>
+      <link>/post/2017-10-12-afd-map/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-10-12-afd-map/</guid>
+      <description>Eine häufig diskutierte Hypothese im Lichte der hohen Wahlerfolge der AfD lautet, dass die AfD von &amp;ldquo;Abgehängten&amp;rdquo; oder vielleicht besser &amp;ldquo;sich abgehängt fühlenden Bürgern&amp;rdquo; gewählt würde. Entsprechend könnte man von einer &amp;ldquo;AfD-Abgehängten-Follower-Hypothese&amp;rdquo; sprechen.
+Es wurden einige Argumente/ Belege dafür und einige dagegen angeführt. Dieser Post untersucht diese Hypothese anhand der Wahlergebnisse der BTW17: Es werden die Wahlergebnisse der AfD (Zweitstimmen) ins Verhältnis gesetzt mit der Arbeitslosenquote des jeweiligen Wahlkreises. Das Ergebnis wird dann pro Wahlkreis visualisiert; dabei spiegelt im Diagramm die Farbnuance eines Wahlkreises die Übereinstimmung wider zwischen AfD-Wahlergebnis und der Arbeitslosigkeit.</description>
+    </item>
+    
+  </channel>
+</rss>
